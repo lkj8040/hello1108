@@ -3,7 +3,6 @@ second commit!
 third commit!
 forth commit!
 update by dev!
-update by test!
 update by github!
 update by master!
 update by github 2nd
